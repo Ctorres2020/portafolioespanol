@@ -6,3 +6,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 npm start
+![Image text](https://github.com/Ctorres2020/portafolioespanol/blob/main/public/assents/Captura%20de%20pantalla%202022-07-23%20102809.jpg)
+
